@@ -5,3 +5,6 @@ Feature 2:
 Feature 3: feature added by developer 3
 
 test
+
+code
+
